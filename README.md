@@ -8,6 +8,6 @@ I am passionate about **data science, machine learning, and AI**. Currently, I a
 🔹 **Libraries & Tools:** Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn  
 🔹 **Projects:**  
 - 🏡 [House Price Prediction](https://github.com/WachirayaPhikulsri/House_Price_Prediction)  
-- 🎭 [Sentiment Analysis](https://github.com/WachirayaPhikulsri/Sentiment_Analysis)  
+- 🎭 [Sentiment Analysis](https://github.com/WachirayaPhikulsri/Projects/tree/main/Guessing%20Game%20(Python%20Socket%20Programming)
 
 
