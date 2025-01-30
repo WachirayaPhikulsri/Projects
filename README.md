@@ -10,6 +10,4 @@ I am passionate about **data science, machine learning, and AI**. Currently, I a
 - 🏡 [House Price Prediction](https://github.com/WachirayaPhikulsri/House_Price_Prediction)  
 - 🎭 [Sentiment Analysis](https://github.com/WachirayaPhikulsri/Sentiment_Analysis)  
 
-📫 **Let's Connect!**  
-[LinkedIn](your-linkedin-url) | [GitHub](https://github.com/WachirayaPhikulsri)
 
