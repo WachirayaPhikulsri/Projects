@@ -1,18 +1,13 @@
-# Projects
 # 👋 Hi, I'm Wachiraya Phikulsri!
 
-### 🔍 Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer  
+### 🔍 Data Science Intern | Machine Learning Enthusiast  
 
-I am passionate about extracting insights from data, building predictive models, and creating impactful visualizations.  
+I love working with data, building predictive models, and finding insights. Currently, I am a **Data Science Intern**, learning and applying my skills in Python, machine learning, and data visualization.  
 
-🔹 **Technical Skills:** Python, SQL, Machine Learning, Data Visualization  
-🔹 **Tools:** Scikit-Learn, TensorFlow, Pandas, Matplotlib, Seaborn  
+🔹 **Languages:** Python, SQL  
+🔹 **Tools:** Pandas, Scikit-Learn, TensorFlow, Matplotlib, Seaborn  
+🔹 **Projects:** [House Price Prediction](https://github.com/WachirayaPhikulsri/House_Price_Prediction), [Customer Segmentation](https://github.com/WachirayaPhikulsri/Customer_Segmentation)  
 
-## 🚀 Projects
-Here are some of my top projects:
-1. 🏡 [House Price Prediction](https://github.com/WachirayaPhikulsri/Projects) - Built a machine learning model to predict house prices.
-2. 🎭 [Sentiment Analysis](https://github.com/WachirayaPhikulsri/Projects) - Analyzed tweets to classify emotions using NLP.
-3. 🔢 [Customer Segmentation](https://github.com/WachirayaPhikulsri/Projects) - Used K-Means clustering to segment customers based on their purchasing behavior.
+📫 **Connect with me:**  
+[LinkedIn](your-linkedin-url) | [GitHub](https://github.com/WachirayaPhikulsri)
 
-📫 **Let's Connect!**  
-[LinkedIn](your-linkedin-profile) | [Email](your-email) | [Portfolio](your-portfolio-link)
