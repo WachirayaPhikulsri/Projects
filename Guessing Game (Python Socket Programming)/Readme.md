@@ -1,4 +1,4 @@
-## **🎮 Game Logic Breakdown**  
+## ** Game Logic Breakdown**  
 
 ### **1️ Random Number Generation 🎲**  
 🔹 The server generates a **6-digit number** with **unique** digits (0-9).  
